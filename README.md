@@ -1,0 +1,2 @@
+# qajam
+qajam minecraft server
